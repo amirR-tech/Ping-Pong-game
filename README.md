@@ -5,11 +5,7 @@ A simple two-player Ping Pong game built with Pygame.
 ---
 
 ## ⚙️ Prerequisites
-- Python 3.6 or higher
-- Install Pygame:
-```bash
-pip install pygame
-```
+**Open .exe file, Play and fun !**
 
 ---
 
